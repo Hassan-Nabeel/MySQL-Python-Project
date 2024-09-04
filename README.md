@@ -10,7 +10,7 @@ The README file contains the description of the following projects:
   locations, product attributes, and customer reviews.
 
  Features
-  - The data is available in 8 csv files:
+- The data is available in 8 csv files:
    1.	customers.csv
    2. 	sellers.csv
    3.	order_items.csv
