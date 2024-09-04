@@ -11,7 +11,7 @@ The README file contains the description of the following projects:
 
  Features
  
-  The data is available in 8 csv files:
+ The data is available in 8 csv files:
      1.	customers.csv
      2. 	sellers.csv
      3.	order_items.csv
@@ -20,7 +20,7 @@ The README file contains the description of the following projects:
      6.	orders.csv
      7.	products.csv
 
- Potential Use Cases
+ Potential Use Cases:
  
   Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product 
   characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
