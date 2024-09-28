@@ -12,7 +12,7 @@ The README file contains the description of the following projects:
  Features
 - The data is available in 8 csv files:
    1.	customers.csv
-   2. 	sellers.csv
+   2. sellers.csv
    3.	order_items.csv
    4.	geolocation.csv
    5.	payments.csv
@@ -48,3 +48,37 @@ The README file contains the description of the following projects:
  5. Identify the top 3 customers who spent the most money in each year.
 
 Link - https://www.kaggle.com/datasets/devarajv88/target-dataset/data
+
+----------------------------------------------------------------
+
+## 2. Movies IMDB Analysis
+
+ About Dataset:
+ - The Dataset contains of 2 dataframes:
+     1. Movies
+     2. Directors
+ - The IMDB dataset contains information about movies, including their names, release dates, budget, popularity, vote average, vote count, overviews, tagline, original titles, uid and director id.
+ - This data can be used for various analyses, such as identifying trends in movie genres, exploring the relationship between budget and revenue, and predicting the success of future movies.
+
+ Queries
+ 1. Check how many movies are present in the imdb data.
+ 2. Find the data from these three directors- James cameron, Luc Besson, John woo.
+ 3. Find all the directors whose name starting with 'steven'.
+ 4. Represent females - count how many female directors we have.
+ 5. Find the name of 10th women directors.
+ 6. What are the 3 most popular movies.
+ 7. What is most awarded average rated movie since jan 1st, 2000.
+ 8. Name the director who has made most number of movies.
+ 9. Which director is more bankable.
+ 10. Top 10 revenue making movies.
+ 11. 20 movies with highest vote average.
+
+-----------------------------------------------------
+
+
+
+
+
+
+
+
